@@ -1,0 +1,1 @@
+../configure --target=arm-linux-androideabi --program-prefix=arm-linux-androideabi- --host=x86_64-linux-gnu --enable-initfini-array --enable-plugins --enable-threads --disable-nls --prefix=/toolchain --enable-gold --with-pkgversion="Inferno binutils"

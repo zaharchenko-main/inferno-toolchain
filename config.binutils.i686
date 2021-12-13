@@ -1,0 +1,1 @@
+../configure --target=i686-linux-android --program-prefix=i686-linux-android- --host=x86_64-linux-gnu --enable-initfini-array --enable-plugins --enable-threads --disable-nls --prefix=/toolchain --enable-gold --with-pkgversion="Inferno binutils"
